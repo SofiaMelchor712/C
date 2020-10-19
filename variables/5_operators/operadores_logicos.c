@@ -1,6 +1,11 @@
 #include <stdio.h> 
 #include <stdlib.h>
 
+//*
+// || OR , ESTO O ESTO 
+ //&& AND ESTO Y ESTO;
+// ! NOT , INVERSO
+//*
 int main()
 { // Inicio
 
