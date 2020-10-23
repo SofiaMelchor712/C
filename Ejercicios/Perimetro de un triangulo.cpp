@@ -2,6 +2,7 @@
 
 int main()
 {
+	
 float l, p;
 
 printf("introduce el lado de un triangulo equilatero:");
